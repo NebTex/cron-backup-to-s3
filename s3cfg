@@ -32,6 +32,7 @@ recv_chunk = 4096
 reduced_redundancy = False
 send_chunk = 4096
 simpledb_host = sdb.amazonaws.com
+signature_v2 = True
 skip_existing = False
 socket_timeout = 300
 urlencoding_mode = normal
